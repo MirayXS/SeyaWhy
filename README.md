@@ -1,8 +1,8 @@
-<center><h1>Hello, Seya!</h1></center>
+<center><h1>Hello, NyaNiy!</h1></center>
 
-<a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/SeyaWhy/README.MD/main/0f89e155d73badb31f8fddf5225be8b1baa5f225c4652f6306f156a78f3bbadc.png" width="300" align="right"></a>
+<a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/NyaNiy/README.MD/main/0f89e155d73badb31f8fddf5225be8b1baa5f225c4652f6306f156a78f3bbadc.png" width="300" align="right"></a>
 
-<p>こんにちは I am a just developer living in South Korea. I usually use JavaScript and TypeScript <strong>awa</strong></p>
+<p>こんにちは~ I am a just developer living in South Korea. I usually use JavaScript and TypeScript!! <strong>awa</strong></p>
 
 <br>
 <a href="sdigjsdigksdgdsg"><img src="https://wakatime.com/badge/user/6995312b-ee49-4866-8ade-679949c37361.svg"/></a>
@@ -22,28 +22,25 @@
 
 <br><br>
 
-<a href="https://discord.com/users/585019634835783700"><img align="left" src="https://lanyard-profile-readme.vercel.app/api/585019634835783700?bg=2E3440&animated=true&hideBadges=true&idleMessage=❤  ! Welcome to my GitHub ! ❤"/></a>ㅤ<!-- &borderRadius=3px -->
-<!-- 
-<a href="https://twitter.com/SeyaWhy"><img src="https://img.shields.io/badge/-SeyaWhy-000000?style=flat&logo=twitter"/></a>
-<a href="https://discordapp.com/users/585019634835783700"><img src="https://img.shields.io/badge/-SeyaWhy%230001-000000?style=flat&logo=discord"/></a> -->
+<a href="https://twitter.com/NyaNiy"><img src="https://img.shields.io/badge/-NyaNiy-000000?style=flat&logo=twitter"/></a>
+<a href="https://discordapp.com/users/NyaNiy"><img src="https://img.shields.io/badge/-NyaNiy%230001-000000?style=flat&logo=discord"/></a> -->
 
 ```js
-class Stark {
+class about {
     constructor(options) {
-        this.name = "Seya",
-        this.type = "human",
-        this.hobby = "coding",
-        this.discord.tag = "Seya#0001"
+        this.name = "NyaNiy",
+        this.type = "Cat",
+        this.hobby = "Dev",
     };
 }
 
-module.exports = Stark
+module.exports = about
 ```
 
 <!-- <hr style="width:100%;text-align:left;margin-left:0">
-![Metrics](https://github.com/seyawhy/seyawhy/blob/main/github-metrics.svg) -->
+![Metrics](https://github.com/NyaNiy/NyaNiy/blob/main/github-metrics.svg) -->
 <a href="https://github.com/SeyaWhy">
-    <center><img src="https://github.com/SeyaWhy/SeyaWhy/blob/snake/snake.svg" alt="snake"/></center>
+    <center><img src="https://github.com/NyaNiy/NyaNiy/blob/snake/snake.svg" alt="snake"/></center>
 </a>
 
 <!--
