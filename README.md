@@ -39,7 +39,7 @@ module.exports = about
 
 <!-- <hr style="width:100%;text-align:left;margin-left:0">
 ![Metrics](https://github.com/NyaNiy/NyaNiy/blob/main/github-metrics.svg) -->
-<a href="https://github.com/SeyaWhy">
+<a href="https://github.com/">
     <center><img src="https://github.com/NyaNiy/NyaNiy/blob/snake/snake.svg" alt="snake"/></center>
 </a>
 
